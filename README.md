@@ -1,6 +1,6 @@
 # Zulu
 <h1 align="center">HeyHeyHeyyy, I'm Zulu</h1>
-<h3 align="center">A passionate student developer from DK 🇩🇰</h3>
+<h3 align="center">A passionate student developer from Denmark 🇩🇰</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zuluewe&label=Profile%20views&color=0e75b6&style=flat" alt="zuluewe" /> </p>
 

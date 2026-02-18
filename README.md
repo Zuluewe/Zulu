@@ -6,6 +6,7 @@
 </p>
 
 <h2> A little about me </h3>
+
 - 🔭 I’m currently working on **a maze puzzle game 🧩 and a secret project for a friend...**
 
 - 🌱 I’m currently learning **GUI, Algorithms, Datascience, Moddeling and Simulation with python, Visual Novels with Renpy, and of course enjoying life to it's fullest 😋**

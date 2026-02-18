@@ -20,7 +20,7 @@
 - ⚡ Fun fact **I placed top 10 in a national entrepreneurship competition and got to visit Barcelona on a talent trip 🫢**
 
 <h2 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/zulaikhajespersen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zulaikha jespersen" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zulaikhajespersen/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zulaikha jespersen" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h3>
